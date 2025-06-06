@@ -1,7 +1,10 @@
 # Beverage Shop Ordering and Billing System
 
 ## Overview
-This .NET Windows Forms application is a comprehensive ordering and billing system designed for small beverage shops. It supports both customer self-ordering and staff-assisted ordering modes, streamlining operations from menu management to payment processing. Developed as a course project for ".NET Architecture and Application Development" at Sun Yat-sen University.
+This .NET Windows Forms application is a comprehensive ordering and billing system designed for small beverage shops. It supports both customer self-ordering and staff-assisted ordering modes, streamlining operations from menu management to payment processing.
+
+- The Main Window:
+  - ![Screenshot 2025-06-06 190937.png](https://s2.loli.net/2025/06/06/lIMrKWeqTJ5hFUH.png)
 
 ## Key Features
 - **Dual Ordering Modes**: Self-service kiosk for customers + Staff-assisted POS interface
